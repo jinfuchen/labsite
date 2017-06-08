@@ -567,8 +567,8 @@ ul.sub-menu {
 
 #home-slider .slider-house {
   position: absolute;
-  right: 110px;
-  bottom: -30px;
+  right: 10px;
+  bottom: 00px;
 }
 
 .animate-in .slider-house {
